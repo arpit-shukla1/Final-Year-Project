@@ -1,0 +1,2 @@
+plot(network_output,target,'x') ; hold on ;
+plot(0:100,0:100); hold off ;
